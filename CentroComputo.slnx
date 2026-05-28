@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CentroComputo.API/CentroComputo.API.csproj" Id="1ad66f91-1725-418f-8d91-e4c15d685ffc" />
+  <Project Path="CentroComputo.core/CentroComputo.core.csproj" />
+  <Project Path="CentroComputo.data/CentroComputo.data.csproj" Id="aa7cc7f7-397d-4a3a-af34-7cf373d8148a" />
+</Solution>
